@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi! there (✿◠‿◠)
+### I'm Alexandra Gallipoli \(^ヮ^)/
 
+🌱 I'm currently studing at 42 Madrid computer programming and finishing my studies on multiplatform application development.
+
+💫 I'm looking forward to specialise in machine learning and AI or data analytics, maybe both 	┐(︶▽︶)┌
+          
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agallipo&show_icons=true&theme=radical)
 <!--
 **agallipo/agallipo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+📫 How to reach me: 
+          www.linkedin.com/in/agallipo
 -->
